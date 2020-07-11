@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>head-up.png</file>
+        <file>head-down.png</file>
+        <file>head-left.png</file>
+        <file>head-right.png</file>
+        <file>star.png</file>
+        <file>images.jpeg</file>
+        <file>newbody.png</file>
+        <file>tail.png</file>
+        <file>brick.png</file>
+        <file>back.png</file>
+        <file>hearty.png</file>
+        <file>bug.png</file>
+        <file>berry.png</file>
+        <file>mango.png</file>
+        <file>threeheart.png</file>
+        <file>twoheart.png</file>
+        <file>snaket_head_down.png</file>
+        <file>snaket_head_left.png</file>
+        <file>snaket_head_right.png</file>
+        <file>snaket_head_up.png</file>
+        <file>snaket_tail.png</file>
+        <file>snaket_body.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>Bonkers-for-Arcades.mp3</file>
+        <file>eatfruit.mp3</file>
+        <file>star.mp3</file>
+        <file>hitwall</file>
+    </qresource>
+</RCC>
